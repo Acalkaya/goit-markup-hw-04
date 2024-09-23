@@ -471,7 +471,6 @@ img {
   max-width: 208px;
   margin-left: 120px;
 }
-
 .socialmedia {
   font-size: 16px;
   font-weight: 500;
@@ -479,7 +478,6 @@ img {
   letter-spacing: 1.5;
   text-align: left;
 }
-
 .foot-social {
   display: flex;
   flex-wrap: wrap;
